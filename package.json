@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "colorette": "^2.0.20",
+    "colors": "^1.4.0",
+    "dady-jokes": "^1.0.1"
+  }
+}
+
